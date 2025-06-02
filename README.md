@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Machine learning, Sloving dsa problems, working on iot automation<br>🎯 Goals: Solve a real-life problem<br>🎲 Fun fact: I repair my tech stuff myself</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning ML, Sloving dsa problems, working on iot automation<br>🎯 Goals: Solve a real-life problem<br>🎲 Fun fact: I repair my tech stuff myself</p>
 
 ###
 
