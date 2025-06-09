@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning ML, Sloving dsa problems, working on iot automation<br>🎯 Goals: Learn everyday<br>🎲 Fun fact: Anuj means 'small brother'</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning ML, Sloving dsa problems, working on iot automation<br>🎯 Goals: Learn everyday<br>🎲 Fun fact: Anuj means "small brother"</p>
 
 ###
 
