@@ -14,9 +14,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/anuj-dangi/count.svg?"  />
-</div>
 
 ###
 
