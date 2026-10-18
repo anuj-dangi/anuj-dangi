@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Anuj Dangi and I'm a computer science engineer form university of hyderabad</p>
+<p align="left">My name is Anuj Dangi and I'm a computer science engineer form university of Hyderabad</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning ML, Sloving dsa problems, working on iot automation<br>🎯 Goals: Learn everyday<br>🎲 Fun fact: Anuj means "small brother"</p>
+<p align="left">📚 I'm currently Systems, Networking, Cloud & Distributed Computing and working on IOT automation<br>🎯 Goals: Learn everyday<br>🎲 Fun fact: Anuj means "small brother"</p>
 
 ###
 
